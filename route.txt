@@ -1,0 +1,5 @@
+login : get
+users : post
+session : post
+
+isequal{ss,ss}
